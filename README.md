@@ -1,10 +1,11 @@
-<img width="735" height="123" alt="Image" src="https://github.com/user-attachments/assets/bdefee0d-3e8e-4ec1-8ded-6296d13d71f4" />
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/b0650210-d651-41db-bb5a-b3cea0518946" />
 
 <div align="center">
 
 ![strawberries](https://komarev.com/ghpvc/?username=divine-strawberries&label=strawberries&color=red)
 
-<img width="4616" height="2817" alt="Image" src="https://github.com/user-attachments/assets/df1a61be-6d6f-4dc0-8ea5-89511972c589" />
+<div align="center">
+  <img width="957" height="825" alt="Image" src="https://github.com/user-attachments/assets/14fac236-2ac4-44e6-8326-e7cb8d3d4ae4" />
 
 <div align="center">
 
