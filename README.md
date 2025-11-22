@@ -5,7 +5,8 @@
 ![strawberries](https://komarev.com/ghpvc/?username=divine-strawberries&label=strawberries&color=red)
 
 <div align="center">
-  <img width="957" height="825" alt="Image" src="https://github.com/user-attachments/assets/14fac236-2ac4-44e6-8326-e7cb8d3d4ae4" />
+  
+<img width="957" height="825" alt="Image" src="https://github.com/user-attachments/assets/ea1e4346-7dff-4d4f-9220-211779ba7148" />
 
 <div align="center">
 
@@ -15,8 +16,7 @@
   
   [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage](https://m4lloeyy.straw.page) ✧ ◜ [tiktok](https://www.tiktok.com/@oreosdomino?_r=1&_t=ZS-91MBvIlTP4Z)
 
-<img width="735" height="114" alt="Image" src="https://github.com/user-attachments/assets/8f192e1f-4aef-4244-9531-eb6d5d15b11f" />
-
+<img width="957" height="359" alt="Image" src="https://github.com/user-attachments/assets/0b7e53ff-7647-4244-aee5-a310476024ec" />
 
 <!--
 **hueyuine/hueyuine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
