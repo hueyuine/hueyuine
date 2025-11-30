@@ -4,6 +4,10 @@
 
 ![strawberries](https://komarev.com/ghpvc/?username=divine-strawberries&label=strawberries&color=red)
 
+<div aligh="center">
+  
+[COLORMYTREE!](https://colormytree.me/2025/01KBAW4JM0T3C8HTQDC4DDCCPV)
+
 <div align="center">
   
 <img width="957" height="825" alt="Image" src="https://github.com/user-attachments/assets/ea1e4346-7dff-4d4f-9220-211779ba7148" />
