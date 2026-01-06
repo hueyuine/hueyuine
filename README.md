@@ -16,6 +16,9 @@
   
   [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage] ✧ ◜ [tiktok](https://www.tiktok.com/@oreosdomino?_r=1&_t=ZS-91MBvIlTP4Z)
 
+<div align="center">
+
+![Image](https://github.com/user-attachments/assets/04b5f9c8-21e1-4c25-be86-e41b086a2394)
 <!--
 **hueyuine/hueyuine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
