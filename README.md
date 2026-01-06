@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![strawberries]()
+![strawberries](https://komarev.com/ghpvc/?username=divine-strawberries&label=strawberries&color=D97E8A)
 
 <div aligh="center">
   
@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage](https://hueyuine.straw.page) ✧ ◜ [tiktok](https://www.tiktok.com/@oreosdomino?_r=1&_t=ZS-91MBvIlTP4Z)
+  [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage] ✧ ◜ [tiktok](https://www.tiktok.com/@oreosdomino?_r=1&_t=ZS-91MBvIlTP4Z)
 
 <!--
 **hueyuine/hueyuine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
