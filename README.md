@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![strawberries](https://komarev.com/ghpvc/?username=divine-strawberries&label=strawberries&color=D97E8A)
+![strawberries]()
 
 <div aligh="center">
   
