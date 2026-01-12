@@ -1,23 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="WONDAAAHOYY in pink to white gradient">
-  <defs>
-    <!-- pink -> near-white (near-white keeps visibility on white backgrounds) -->
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#fcdcdd"/>
-      <stop offset="100%" stop-color="#fff7fb"/>
-    </linearGradient>
-  </defs>
+<div align="center">
 
-  <!-- optional transparent background (remove rect if you want full transparency) -->
-  <rect width="100%" height="100%" fill="transparent"/>
-
-  <text x="50%" y="58%" font-family="Arial Black, 'Helvetica Neue', Arial, sans-serif"
-        font-size="96" font-weight="900" text-anchor="middle" dominant-baseline="middle"
-        fill="url(#g)" stroke="#ff66b2" stroke-opacity="0.06" stroke-width="2">
-    WONDAAAHOYY
-  </text>
-</svg>
-
+<span style="color:#fcdcdd;">WONDERHOYY</span>
 
 <div align="center">
 
@@ -45,9 +28,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun 
+- 👯
