@@ -1,6 +1,8 @@
 <div align="center">
 
-$\color{rgb}(20,22,46)}{textsf{WONDAAHOOY}}$
+$\color{rgb(250,235,214)}{\textsf{“}}$
+$\color{rgb(103,6,38)}{\textsf{Let’s}}$ $\color{rgb(255,189,197)}{\textsf{go}}$ $\color{rgb(255,252,239)}{\textsf{ex}}$ $\color{rgb(255,252,239)}{\textsf{p}}$ $\color{rgb(250,235,214)}{\textsf{lore}}$ $\color{rgb(250,235,214)}{\textsf{the}}$ $\color{rgb(255,252,239)}{\textsf{world}}$ $\color{rgb(255,189,197)}{\textsf{,}}$ $\color{rgb(255,189,197)}{\textsf{my}}$ $\color{rgb(103,6,38)}{\textsf{dearest}}$
+$\color{rgb(250,235,214)}{\textsf{”}}$
 
 
 <div align="center">
