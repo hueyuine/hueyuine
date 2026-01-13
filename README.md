@@ -1,6 +1,7 @@
 <div align="center">
 
-<span style="color:#fcdcdd;">WONDERHOYY</span>
+$\color{rgb}(20,22,46)}{textsf{WONDAAHOOY}}$
+
 
 <div align="center">
 
