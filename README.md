@@ -10,9 +10,7 @@ $\color{rgb(250,235,214)}{\textsf{”}}$
 ![strawberries](https://komarev.com/ghpvc/?username=divine-strawberries&label=strawberries&color=D97E8A)
 
 <div aligh="center">
-  
-[COLORMYTREE!](https://colormytree.me/2025/01KBAW4JM0T3C8HTQDC4DDCCPV)
-
+ 
 <div align="center">
 
 <div align="center">
