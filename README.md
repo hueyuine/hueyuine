@@ -1,3 +1,6 @@
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/087898d6-0314-4d35-b310-7ded4d95344d" />
+ 
+ 
  <div align="center">
 
 $\color{rgb(236,208,236)}{\textsf{˓˓}}$
