@@ -13,7 +13,7 @@ $\color{rgb(128,185,177)}{\textsf{𝑱}}$ $\color{rgb(148,199,180)}{\textsf{𝖎
 
 ![strawberries](https://komarev.com/ghpvc/?username=divine-strawberries&label=strawberries&color=D97E8A)
 
-$\color{rgb(236,208,236)}{\textsf{˓˓}}$ $\color{rgb(48,37,62)}{\textsf{【}}$ $\color{rgb(48,37,62)}{\textsf{𝒜}}$ $\color{rgb(70,29,58)}{\textsf{𝑝}}$ $\color{rgb(126,42,83)}{\textsf{ᨵׁׅׅ}}$ $\color{rgb(186,113,162)}{\textsf{𝖙}}$ $\color{rgb(236,208,236)}{\textsf{ₕ}}$
+$\color{rgb(236,208,236)}{\textsf{˓˓}}$ $\color{rgb(48,37,62)}{\textsf{【}}$ $\color{rgb(48,37,62)}{\textsf{𝒜}}$ $\color{rgb(70,29,58)}{\textsf{𝑝}}$ $\color{rgb(126,42,83)}{\textsf{ᨵׁׅׅ}}$ $\color{rgb(186,113,162)}{\textsf{𝖙}}$ $\color{rgb(236,208,236)}{\textsf{ₕ}}$ $\color{rgb(186,113,162)}{\textsf{𝑒}}$ $\color{rgb(126,42,83)}{\textsf{𝙘}}$ $\color{rgb(70,29,58)}{\textsf{ₐ}}$ $\color{rgb(48,37,62)}{\textsf{Ր}}$
 
 ![Image](https://github.com/user-attachments/assets/019a4caa-32e4-4c3b-9cb8-c41701b9d80d)
 
