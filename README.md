@@ -36,7 +36,7 @@ $\color{rgb(236,208,236)}{\textsf{ˋˋ}}$ $\color{rgb(48,37,62)}{\textsf{【}}$ 
 
 <div align="center">
   
-  [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage] ✧ ◜ [tiktok](https://www.tiktok.com/@oreosdomino?_r=1&_t=ZS-91MBvIlTP4Z)
+  [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage](https://heyuyuine.straw.page) ✧ ◜ [tiktok](https://www.tiktok.com/@oreosdomino?_r=1&_t=ZS-91MBvIlTP4Z)
 
 <div align="center">
 
