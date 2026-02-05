@@ -4,10 +4,15 @@ $\color{rgb(250,235,214)}{\textsf{“}}$
 $\color{rgb(103,6,38)}{\textsf{Let’s}}$ $\color{rgb(255,189,197)}{\textsf{go}}$ $\color{rgb(255,252,239)}{\textsf{ex}}$ $\color{rgb(255,252,239)}{\textsf{p}}$ $\color{rgb(250,235,214)}{\textsf{lore}}$ $\color{rgb(250,235,214)}{\textsf{the}}$ $\color{rgb(255,252,239)}{\textsf{world}}$ $\color{rgb(255,189,197)}{\textsf{,}}$ $\color{rgb(255,189,197)}{\textsf{my}}$ $\color{rgb(103,6,38)}{\textsf{dearest}}$
 $\color{rgb(250,235,214)}{\textsf{”}}$
 
+<div align="left">
+ 
+![Image](https://github.com/user-attachments/assets/8e6958c9-7c11-46e0-b665-56b872a9e5d4)
+
 
 <div align="center">
 
 ![strawberries](https://komarev.com/ghpvc/?username=divine-strawberries&label=strawberries&color=D97E8A)
+
 
 <div aligh="center">
  
