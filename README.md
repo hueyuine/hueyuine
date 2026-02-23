@@ -1,8 +1,12 @@
 <img width="736" height="219" alt="Image" src="https://github.com/user-attachments/assets/0652d8fa-60ad-407e-950f-2a0e0ada5772" />
 
+<div align="center">
+
+  [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage](https://heyuyuine.straw.page) ✧ ◜ [carrd.co](https://mayorry.carrd.co)
+
 <img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/087898d6-0314-4d35-b310-7ded4d95344d" />
- 
- 
+
+
  <div align="center">
 
 $\color{rgb(236,208,236)}{\textsf{˓˓}}$
@@ -36,7 +40,7 @@ $\color{rgb(236,208,236)}{\textsf{ˋˋ}}$ $\color{rgb(48,37,62)}{\textsf{【}}$ 
 
 <div align="center">
   
-  [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage](https://heyuyuine.straw.page) ✧ ◜ [carrd.co](https://mayorry.carrd.co)
+
 
 <div align="center">
 
